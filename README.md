@@ -2,7 +2,7 @@
 Custom ``sfm_defaultanimationgroups.cfg`` that tags literally everything (TF2 naming schema)
 # Made EXTREMELY redundant and over the top with the help of AI, attempting to cover every possible combination and chain length
 
-# Covers:
+# Additionally Covers:
 
 ### 1.  _All models I have ever worked on_
 ### 2.  _Team Fortress 2_ (player models, HWM models, Robots, notable extras like Merasmus)
