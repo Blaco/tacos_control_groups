@@ -2,16 +2,17 @@
 Custom ``sfm_defaultanimationgroups.cfg`` that tags literally everything (TF2 naming schema)
 # Made EXTREMELY redundant and over the top with the help of AI, attempting to cover every possible combination and chain length
 
-Covers:
+# Covers:
 
-1. All models I have ever worked on
-2. Team Fortress 2 (player models, HWM models, Robots, notable extras like Merasmus)
-3. Left 4 Dead survivors
-4. Half Life 2 (original Valve Biped characters, enemy rigs, various Gmod controls)*
-5. Super Smash Bros. for Wii U and Ultimate original skeletons*
-6. Section at the bottom for community contributions
+### 1.  _All models I have ever worked on_
+### 2.  _Team Fortress 2_ (player models, HWM models, Robots, notable extras like Merasmus)
+### 3.  _Left 4 Dead survivors_
+### 4.  _Portal 2_ (Chell, P-body, Atlas, Turret, GLaDOS, Personality Cores, various extras) *
+### 5.  _Half Life 2_ (original Valve Biped characters, enemy rigs, various Gmod controls) *
+### 6.  _Super Smash Bros. Ultimate / Wii U original bone names *_
+### 7.  _Section at the bottom for community contributions_
 
-*Work in progress
+###### ***Work in progress**
 
 This can replace your original stock file if you have never modified it before, all the vanilla entries still exist at the top.
 
