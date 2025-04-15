@@ -5,7 +5,7 @@ Custom ``sfm_defaultanimationgroups.cfg`` that tags literally everything (TF2 na
 # Additionally Covers:
 
 ### 1.  _All models I have ever worked on_
-### 2.  _Team Fortress 2_ (player models, HWM models, Robots, notable extras like Merasmus, Administrator, Saxton Hale, Female Classes, etc)
+### 2.  _Team Fortress 2_ (player models, HWM models, Robots, notable extras like Merasmus, Administrator, Saxton Hale, Female Classes, etc) *
 ### 3.  _Left 4 Dead survivors_
 ### 4.  _Portal 2_ (Chell, P-body, Atlas, Turret, GLaDOS, Personality Cores, various extras) *
 ### 5.  _Half Life 2_ (original Valve Biped characters, enemy rigs, various Gmod controls) *
