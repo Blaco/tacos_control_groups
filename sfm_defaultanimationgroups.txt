@@ -38850,9 +38850,9 @@ groupFile  // TACO'S GROUPS START NEAR LINE 950 (CTRL+F "COMMON")    CTRL+F "NSF
 		"control"		"prp_hair_H_10_j"
 //-------------------------------------------------------------------
 	}
-	"Face2"
+	"Face"
 	{
-		"Eyes2"
+		"Eyes"
 		{
 			"groupColor" "255 128 32 255"
 		//------------------------------------------------------------------------
@@ -39035,7 +39035,7 @@ groupFile  // TACO'S GROUPS START NEAR LINE 950 (CTRL+F "COMMON")    CTRL+F "NSF
 			"control"		"LowerLidOpenClose"
 		//------------------------------------------------------------------------
 		}
-		"Upper Face2"
+		"Upper Face"
 		{
 			"groupColor"	"255 128 32 255"
 //------------------------------------------------------------------------
@@ -39188,7 +39188,7 @@ groupFile  // TACO'S GROUPS START NEAR LINE 950 (CTRL+F "COMMON")    CTRL+F "NSF
 			"control"		"EarringsHide"
 			"control"		"EarringsHide"
 		}
-		"Mid Face2"
+		"Mid Face"
 		{
 			"groupColor"	"255 128 32 255"
 //------------------------------------------------------------------------
@@ -39220,7 +39220,7 @@ groupFile  // TACO'S GROUPS START NEAR LINE 950 (CTRL+F "COMMON")    CTRL+F "NSF
 			"control"		"NoseTipHeight"
 			"control"		"NoseTipDepth"
 		}
-		"Lower Face2"
+		"Lower Face"
 		{
 			"groupColor"	"255 128 32 255"
 //------------------------------------------------------------------------
